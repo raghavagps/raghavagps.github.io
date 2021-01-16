@@ -1,8 +1,0 @@
-#!/usr/bin/perl
-    open(FP,"temp.txt");
-while($t1=<FP>)
-{
-    chomp($t1);
-    print "$t1\n";
-}
-close(FP);
