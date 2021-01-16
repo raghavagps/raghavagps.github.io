@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!--
+Template Name: Trealop
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>G.P.S. Raghava</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear">
+    <div class="fl_left"> 
+      <!-- ################################################################################################ -->
+      <ul class="nospace">
+        <li><i class="fas fa-phone rgtspace-5"></i>011-26907444</li>
+        <li><i class="far fa-envelope rgtspace-5"></i> raghava@iiitd.ac.in</li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </div>
+    <div class="fl_right"> 
+      <!-- ################################################################################################ -->
+      <ul class="nospace">
+        <li><a href="index.html"><i class="fas fa-home"></i></a></li>
+        <li><a href="#" title="Help Centre"><i class="far fa-life-ring"></i></a></li>
+        <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a></li>
+        <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a></li>
+        <li id="searchform">
+          <div>
+            <form action="#" method="post">
+              <fieldset>
+                <legend>Quick Search:</legend>
+                <input type="text" placeholder="Enter search term&hellip;">
+                <button type="submit"><i class="fas fa-search"></i></button>
+              </fieldset>
+            </form>
+          </div>
+        </li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear">
+    <div id="logo" class="fl_left"> 
+      <!-- ################################################################################################ -->
+      <h1><a href="index.html">G.P.S. Raghava</a></h1>
+      <!-- ################################################################################################ -->
+    </div>
+    <nav id="mainav" class="fl_right"> 
+      <!-- ################################################################################################ -->
+      <ul class="clear">
+        <li><a href="index.html">Home</a>
+	<ul>
+            <li><a href="index.html">About Me</a></li>
+            <li class="active"><a href="work_sum.html">Work Summary</a></li>
+            <li><a href="awards.html">Major Awards</a></li>
+            <li><a href="newspaper.html">News Papers</a></li>
+            <li><a href="biodata.html">Brief Biodata</a></li>
+          </ul>
+	</li>
+        <li><a class="drop" href="#">Web Services</a>
+          <ul>
+            <li><a href="database.html">Databases</a></li>
+            <li><a href="prot_struct.html">Protein Structure</a></li>
+            <li><a href="prot_func.html">Protein Function</a></li>
+            <li><a href="vaccine.html">Vaccinomics</a></li>
+            <li><a href="genomics.html">Genomics</a></li>
+            <li><a href="biodrug.html">BioDrugs</a></li>
+            <li><a href="interactome.html">Interactome</a></li>
+            <li><a href="chemiinfo.html">Chemiinformatics</a></li>
+          </ul>
+        </li>
+	<li><a class="drop" href="#">Research</a>
+          <ul>
+            <li><a href="publication.html">Publications</a></li>
+            <li><a href="patents_copy.html">Patents/Copyrights</a></li>
+            <li><a href="bookchapter.html">Book Chapters</a></li>
+            <li><a href="major_project.html">Major Projects</a></li>
+          </ul>
+        </li>
+	<li><a class="drop" href="#">Group Members</a>
+          <ul>
+            <li><a href="phd_student.html">Ph.D. Students</a></li>
+            <li><a href="project_staff.html">Project Staffs</a></li>
+            <li><a href="alumni.html">Lab Alumni</a></li>
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Teaching</a>
+          <ul>
+            <li><a href="courses.html">Courses</a></li>
+            <li><a href="slides.html">Slides</a></li>
+            <li><a href="preprints.html">Preprints</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </nav>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear">
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content">
+    <!-- ################################################################################################ -->
+      <h6 class="heading"><strong>Summary of Work</strong></h6>
+	<p class="rtejustify"><strong>Major Scientific Accomplishments:</strong> Raghava contributed significantly in the field of bioinformatics and chemoinformatics particularly in the field of computer-aided drug and vaccine design. In contrast to traditional researchers where a scientist contributes to a particular problem or field; He contributed to multiple problems/fields important for translational medicine. His group mainly focuses on data intensive research for mining important information and rule from wide range of biological data. His group have published more than 180 papers in high impact factor (IF) journals (average IF &gt; 3.5) including one paper in Genome Research (IF 14.4), one paper in Trends in Biotechnology (IF 9.6), 16 paper in Nucleic Acids Research (IF 9.1). Most of his papers are highly cited as per Google Scholar his papers got around 7400 citations with h-index 46. His group developed more than 200 web servers, databases and software packages, which is highest contribution by a single group in the world. He has been listed in The World's Most Influential Scientific Minds by Thompson Reuters, in 2014. This list contain 3200 individuals who published the greatest number of highly cited papers in one of 21 broad fields, 2002-2012. Raghava is strong supporter of open source software/web-servers; all service developed at his group are free for academic use. These web-based services are heavily used worldwide, more than 100,000 hits per day.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/db.html">Compilation of Resources (Databases)</a> :</strong> One of the major challenges in any field of informatics (particularly data intensive research) is creation of clean and large data sets. The compilation of resources from literature in form of databases is a most important component of research in the field of informatics. Raghavaâ€™s group developed more than twenty world-class biological databases in the field of Bioinformatics, Cheminformatics and Pharminformatics. These databases are heavily used by experimentalist as well as by informatics specialists. Following are major databases developed and maintained by his group. MHCBN: A database of MHC-binding, non-binding and T-cell epitopes. Bcipep: Collection and compilation of B-cell epitopes. HaptenDB: Compilation of hapten molecules that cannot activate immune system. PolysacDB: Antigenic polysaccharides found on surface of microbial organism. AntigenDB: A database of wide range of experimentally validated antigens. HMRBase: A manually curated database of hormones and their receptors. ccPDB: Compilation and creation of datasets from Protein Databank. ParaPep: A database of experimentally validated antiparasite peptides. HemolytiK: A resource of experimentally tested hemolytic peptides. CPPsite: Compilation of experimentally validated Cell Penetrating Peptides. TumorHope: Contain experimentally characterized tumor homing peptides. CancerDR: Anticancer drugs and their effectiveness against various cancer cell lines. PCMdb: Pancreatic cancer methylation database. HerceptinR: Compilation of assays performed to test sensitivity/resistance of herceptin antibody.</p>	
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/vacci.html">Computer-Aided Vaccine Design </a>:</strong> There are millions premature deaths every year as well as economic burden on developing world, due to infectious diseases. Fortunately, we have effective vaccines against number of dread diseases (e.g. small pox, polio) that save millions of deaths every year. Traditionally whole pathogens in killed form are used as vaccine that is costly and toxic. In modern era major emphasis is on designing of subunit vaccine based on epitope/peptide, which are cheaper and less toxic. Raghavaâ€™s group is working in the field of immunoinformatics from last 12 years in order to understand the immune system with help of computer. Group have developed more than 25 web-servers for predicting immune response against a peptide this include simulation of adaptiveand innate immune system. These servers may be classified in following categories.</p>
+<p class="rtejustify"><strong>Exogenous Antigen Processing (Adaptive Immunity) :</strong> The antigen presenting cells of immune system uptake exogenous antigens/proteins, degrade these proteins into small peptides. Selective peptide bound to MHC class II molecules that present them to T-helper cells. The T-helper cell release specific class of interleukins/cytokines based on nature of a peptide. Group developed following major servers for predicting immune response of a given peptide based on its amino acids sequence; I) Propred: Prediction of promiscuous binders for 51 MHC class II alleles using virtual matrices; ii) HLADR4pred: Prediction of HLA-DR4 binder using a highly accurate method, iii) IL4pred: Designing and disovering of interleukin-4 inducing peptides and iv) IFnepitope: Designing of interferon-gamma inducing epitopes.</p>
+<p class="rtejustify"><strong>Endogenous Antigen Presentation (CTL Epitopes) :</strong> In case pathogen is inside a infected cell then antigens released by pathogen is processed using following pathway; i) antigen cleaved in peptides using proteasomes, ii) TAP binding peptides enter into ER, iii) selective peptides inside ER bind to MHC class I molecules, iv) MHC bound peptide presented on cell surface, v) CTL recognize MHC bound peptides and release cytokines to kill infected cells. His group developed web servers for predicting charterstics of peptide to identify best vaccine candidate based on whole endogenous antigen pathway. Following is list of major servers developed by his group; I) Propred1: Prediction of promiscuous binders for 47 MHC class I alleles using virtual matrices; ii) nHLApred: Highly accurate prediction method for 67 MHC class I alleles; iii) MMBpred: Searching a potential vaccine candidate by introducing mutations at selected positions in the antigenic sequence, iv) Pcleavage: Identification of proteasome cleavage sites in a protein sequence, v) TAPpred: prediction of T-cell epitopes and vi) CTLpred: Discrimination between the MHC binder T-cell epitopes and the MHC binder non-epitopes.</p>
+<p class="rtejustify"><strong>Innate Immunity and B-Cell Epitopes :</strong> First time his group uses machine learning techniques for predicting linear B-cell epitopes and increase accuracy from 58 to 67%. Recently a highly accurate method has been developed for predicting linear B-cell epitope on experimentally validated B-cell epitopes and non-epitopes. CBtope is first method developed for predicting conformational B-cell epitopes from amino acid sequence of antigen. Recently a database of â€œpattern-recognition receptors and their ligandsâ€<9d> has been build called PRRDB that provides comprehensive information about innate immunity. This database will be very useful in designing effective adjuvant for subunit vaccine and in understanding role of innate immunity.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/pepdesi.html">BioDrugs (In silico Designing of Therapeutic Peptides) </a>:</strong> Traditionally small molecules are used as drug; in recent years number of approved drugs based on small molecules is decreasing. Therapeutic peptides are possible alternative to traditional drugs based on small chemical compounds. Despite their tremendous importance in the field of biology and medicine, so far limited efforts has been made in the field of peptide bioinformatics. Raghava's group developed numerous computational tools for designing therapeutic peptides. Following are major web-servers developed by his group; i) ToxinPred: Prediction of toxicity of peptides and proteins, ii) THPpred: Designing of tumor homing peptide, iii) CellPPD: Prediction of highly effective cell penetrating peptides, iv) AntiCP: Discovering novel anticancer peptides, v) PepStr: Tertiary structure prediction of peptide from their sequence, vi) AntiBP2: Identification of antibacterial peptides and vii) HLP: Predicting half-life of peptides in intestine like environment.</p>
+<p class="rtejustify"><strong>Personalized or Strain specific Medicines :</strong> In the era of next generation sequencing where sequencing of whole genome of pathogens (bacteria/fungus/virus) and human is affordable; it is important to develop person or strain-specific medicine. Group is in the process of developing in silico tools for personalized medicine, following are major resources developed in last few years: a) HIVcoPred: Prediction HIV-1 coreceptor from its V3-loop sequence; b) CancerDR: Pharmacological profiling of anticancer drugs against large number of cancer cell lines; c) DipCells: Promiscuous inhibitors against pancreatic cancer cell-lines; d) HerceptinR: Herceptin resistance database against various cancer cell-lines with genomic information; e) PCMdb: methylation information about important genes across various pancreatic cell lines and tissues and f) CancerDP: prioritization of anticancer drugs based on genomic information. In addition group have sequenced, assembled and annotate large number of microbial genomes.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/protstr.html">Protein Structures Prediction </a>:</strong> The prediction of structure of a protein is one of major challenge in the field of drug development. His group developed method for predicting secondary structure (regular as well as irregular), super secondary structure (e.g. beta-hairpins, beta-barrels) and tertiary structure (ab initio methods for bioactive peptides). The performance of their best secondary structure prediction method was ranked within the top 5 methods in the world, according to the community wide competitions like CASP, CAFASP and EVA. Following are major servers developed for predicting structure of proteins. AlphaPred: ANN based method for predicting alpha-turn in a protein. APSSP2: Prediction of secondary structure of proteins from their sequence. AR_NHPred: Identification of aromatic-backbone NH interaction in proteins. Betatpred2: Prediction of Beta-turns using multiple sequence alignment. BetaTurns: Predict different types of beta-turns in a protein. BhairPred: ANN and SVM based models for predicting beta hairpins in proteins. CHpredicts: Identification of CH-O, CH-PI interactions in backbone residues. GammaPred: Prediction of gamma-turn containing residues in a protein. SARpred: Predicting real-value of surface accessibility of protein residues. TBBpred: Identification of Transmembrane Beta Barrel regions in a protein.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/molint.html">Molecular Interactions in Biology </a>:</strong> Molecular interactions play a vital role in the field of biology whether it is protein-protein or protein-peptide or protein-nucleotide interactions. Raghavaâ€™s group developed web servers for predicting different type of interactions that includes interaction of proteins with peptide, DNA, RNA and ligand. Following are major web servers developed by his group. ATPint: Identification of ATP binding sites in ATP-binding proteins. GlycoEP: Prediction of C-, N- and O-glycosylation site in eukaryotic proteins. GlycoPP: Prediction of potential N-and O-glycosites in prokaryotic proteins. GTPbinder: Identification of GTP binding residue in protein sequences. NADbinder: Prediction of NAD binding proteins and their interacting residues. Pprint: A method for identification of RNA-interacting residues in a protein. PreMieR: Identificn case of genome annotation, group have depitopes. RNApin: Prediction of protein interacting nucleotides in RNA sequences.VitaPred: Identification of different class of vitamin interacting residues in a protein.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/genannot.html">Annotation of Genomes/Proteomes </a>:</strong> Presently thousands of organisms have been sequenced and databases maintain whole genome sequencing is growing with exponential rate. This has posed a major challenge for bioinformaticians to annotate these genomes for predicting the genes and the repeat regions. The protein sequence databases are also growing exponentially due to progress in sequence techniques. The major problem is functional annotation, as most of the proteins obtained from the genomes do not provide any information about the function of protein. Group is developing in-silico methods for annotating genomes and proteomes. In case of genome annotation, group have developed tools for predicting i) protein coding region in prokaryotic genomes using Fast Fourier Transformation, ii) similarity aided ab Initio method for predicting location and structure of genes in eukaryote genomes, iii) identification of spectral repeats using FFT and iv) genome-wide similarity search using BLAST and FASTA. It is difficult to predict function of a protein directly, thus group developed methods for predicting important class of proteins and proteins reside in specific location of a cell. Following are major web-severs developed for functional annotation of proteins. NRpred: Model for prediction and classification of nuclear receptors. GPCRpred: Prediction of families and superfamilies of GPCR. PSLPred: Prediction of subcellular localization of bacterial proteins. Mitpred: Identification of mitochondrial proteins with high accuracy. HSLpred: Subcellular localization of human proteins. ALGpred: Prediction of allergenic proteins and mapping of IgE epitopes. PseaPred: Proteins secreted by malarial parasite into infected-erythrocyte. RSLPred: SVM based method for subcellular localization of rice proteins. COPid: Composition based identification and classification of proteins. ESLPred2: Subcellular localization of eukaryotic proteins. CyclinPred: A SVM based prediction method to identify novel cyclins. CytoPred: A webserver for prediction and classification of cytokines. TBPred: Subcellular localization of mycobacterial proteins. ProPrint: Protein-protein interaction prediction. Cancer_Pred: Specially trained for predicting the cancer lectins.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/">Development of Computational Resources for Drug Discovery </a>:</strong> Open Source Drug Discovery (OSDD) is an initiative with a vision to provide affordable healthcare to the developing world. Its major aims to synergize the power of genomics, computational technologies and facilitate the participation of young and brilliant talent from Universities and industry. Raghavaâ€™s group developed and maintain inslico module of OSDD called â€œComputational Resources for Drug Discovery (CRDD)â€<9d>. Under CRDD all the resources related to computer-aided drug design(CADD) have been collected and compiled at a single platform. Major initiatives have been taken to bring down the cost of CAAD software by developing open source in the filed of drug discovery. Following are major web-services developed by his group. DrugMint: Prediction, virtual screening and design of Drug-like Molecules. MDRIpred: Identification of inhibitor against drug resistant M. Tuberculosis. KiDoQ: Inhibitiors against dihydrodipicolinate synthase enzyme of mycobacterium. TOXIpred: Prediction of aqueous toxicity of small molecules. MetaPred: Prediction of cytochrome P450 isoform responsible for metabolizing a drug molecule. GDoQ: Prediction of GLMU inhibitors using QSAR and docking approach. ntEGFR: Designing of imidazothiazoles/pyrazolopyrimidines based inhibitors against wild/mutant EGFR. DiPCells: Designing of inhibitors against pancreatic cancer cell lines.</p>
+<p class="rtejustify"><strong><a href="http://osddlinux.osdd.net/">Customized Operating System for Drug Design (OSDDlinux) </a>:</strong> OSDDlinux is a customized linux operating system for drug discovery that integrates open source software, libraries, workflows and web services in linux for creating environment for drug discovery. First time an attempt has been made to customize linux to provide service to the community working in the field of drug discovery. OSDDlinux may bring down the cost of drug discovery as well as it may increase speed of drug discovery. This open source operating system will allow students, academicians &amp; researchers to contribute towards drug discovery/designing.</p>
+<p class="rtejustify"><strong><a href="http://webs.iiitd.edu.in/raghava/wportal.html">Infrastructure for Bioinformatics and IT related Services </a>: </strong>He is a coordinator of one of the Bioinformatics Centres established by DBT (Department of Biotechnology, India); all over India with the objectives to create infrastructure for information dissemination in the field of biotechnology. Over the years he has provided IT (Information Technology) related services to the scientific community and maintained world-class infrastructure for bioinformatics. A large number of web resources has been developed including creation of bioinformatics resouces at UAMS, USA.</p>
+<p class="rtejustify">&nbsp;</p>
+
+	</main>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div class="clear">
+        <div class="copyright"><a href="http://iiitd.ac.in/" target="_blank"> IIIT Delhi </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="http://webs.iiitd.edu.in/" target="_blank"> Health Portal at IITD</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="http://webs.iiitd.edu.in/raghava/" target="_blank"> Raghava's Group</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.facebook.com/raghavagps" target="_blank"> FACEBOOK </a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://scholar.google.co.in/citations?user=XK5GUiYAAAAJ&hl=en" target="_blank"> SCHOLAR</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.linkedin.com/in/raghavagps/" target="_blank"> LINKEDIN</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://twitter.com/raghavagps" target="_blank"> TWITTER</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.youtube.com/watch?v=V-0BTIKH78E" target="_blank"> YOUTUBE</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.researchgate.net/profile/Gajendra_Raghava" target="_blank"> ResearchGate</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tr>
+        </fieldset>
+      </form>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
+

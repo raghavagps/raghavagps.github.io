@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!--
+Template Name: Trealop
+Author: <a href="https://www.os-templates.com/">OS Templates</a>
+Author URI: https://www.os-templates.com/
+Copyright: OS-Templates.com
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+-->
+<html lang="">
+<!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
+<head>
+<title>G.P.S. Raghava</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row0">
+  <div id="topbar" class="hoc clear">
+    <div class="fl_left"> 
+      <!-- ################################################################################################ -->
+      <ul class="nospace">
+        <li><i class="fas fa-phone rgtspace-5"></i>011-26907444</li>
+        <li><i class="far fa-envelope rgtspace-5"></i> raghava@iiitd.ac.in</li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </div>
+    <div class="fl_right"> 
+      <!-- ################################################################################################ -->
+      <ul class="nospace">
+        <li><a href="index.html"><i class="fas fa-home"></i></a></li>
+        <li><a href="#" title="Help Centre"><i class="far fa-life-ring"></i></a></li>
+        <li><a href="#" title="Login"><i class="fas fa-sign-in-alt"></i></a></li>
+        <li><a href="#" title="Sign Up"><i class="fas fa-edit"></i></a></li>
+        <li id="searchform">
+          <div>
+            <form action="#" method="post">
+              <fieldset>
+                <legend>Quick Search:</legend>
+                <input type="text" placeholder="Enter search term&hellip;">
+                <button type="submit"><i class="fas fa-search"></i></button>
+              </fieldset>
+            </form>
+          </div>
+        </li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </div>
+  </div>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row1">
+  <header id="header" class="hoc clear">
+    <div id="logo" class="fl_left"> 
+      <!-- ################################################################################################ -->
+      <h1><a href="index.html">G.P.S. Raghava</a></h1>
+      <!-- ################################################################################################ -->
+    </div>
+    <nav id="mainav" class="fl_right"> 
+      <!-- ################################################################################################ -->
+      <ul class="clear">
+        <li><a href="index.html">Home</a>
+	<ul>
+            <li><a href="index.html">About Me</a></li>
+            <li><a href="work_sum.html">Work Summary</a></li>
+            <li><a href="awards.html">Major Awards</a></li>
+            <li><a href="newspaper.html">News Papers</a></li>
+            <li class="active"><a href="biodata.html">Brief Biodata</a></li>
+          </ul>
+	</li>
+        <li><a class="drop" href="#">Web Services</a>
+          <ul>
+            <li><a href="database.html">Databases</a></li>
+            <li><a href="prot_struct.html">Protein Structure</a></li>
+            <li><a href="prot_func.html">Protein Function</a></li>
+            <li><a href="vaccine.html">Vaccinomics</a></li>
+            <li><a href="genomics.html">Genomics</a></li>
+            <li><a href="biodrug.html">BioDrugs</a></li>
+            <li><a href="interactome.html">Interactome</a></li>
+            <li><a href="chemiinfo.html">Chemiinformatics</a></li>
+          </ul>
+        </li>
+	<li><a class="drop" href="#">Research</a>
+          <ul>
+            <li><a href="publication.html">Publications</a></li>
+            <li><a href="patents_copy.html">Patents/Copyrights</a></li>
+            <li><a href="bookchapter.html">Book Chapters</a></li>
+            <li><a href="major_project.html">Major Projects</a></li>
+          </ul>
+        </li>
+	<li><a class="drop" href="#">Group Members</a>
+          <ul>
+            <li><a href="phd_student.html">Ph.D. Students</a></li>
+            <li><a href="project_staff.html">Project Staffs</a></li>
+            <li><a href="alumni.html">Lab Alumni</a></li>
+          </ul>
+        </li>
+        <li><a class="drop" href="#">Teaching</a>
+          <ul>
+            <li><a href="courses.html">Courses</a></li>
+            <li><a href="slides.html">Slides</a></li>
+            <li><a href="preprints.html">Preprints</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+      <!-- ################################################################################################ -->
+    </nav>
+  </header>
+</div>
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row3">
+  <main class="hoc container clear">
+    <!-- main body -->
+    <!-- ################################################################################################ -->
+    <div class="content">
+    <!-- ################################################################################################ -->
+	<h1><strong>Brief BioData</strong></h1>
+	<h2><strong>Curriculam Vitae of Gajendra P.S. Raghava</strong></h2>
+	
+<p>(1)&nbsp;&nbsp;<strong>Name in full:&nbsp;</strong>Raghava, Gajendra Pal Singh&nbsp;</p>
+<p>(2)&nbsp;&nbsp;<strong>Nationality:&nbsp;</strong>Indian</p>
+<p>(3)&nbsp;&nbsp;<strong>Field of Specialization:&nbsp;</strong>Bioinformatics</p>
+<p>(5)&nbsp;&nbsp;<strong>Designation:&nbsp;</strong>Professor</p>
+<p>(6)&nbsp;&nbsp;<strong>Official Address:</strong>&nbsp;&nbsp;Indraprastha Institute of Information Technology, Okhla Phase III, New Delhi<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel:&nbsp;</strong>011-26907444 &nbsp; <strong>&nbsp;</strong>&nbsp;&nbsp;<strong>E-mail:</strong>&nbsp;<a href="mailto:raghavagps@gmail.com">raghavagps@gmail.com</a></p>
+<p>(7)&nbsp;&nbsp;<strong>Academic career and professional attainments:&nbsp;</strong><br>
+&nbsp;</p>
+
+      <div class="scrollable">
+        <table>
+          <thead>
+            <tr>
+              <th>Degree</th>
+              <th>Institution</th>
+              <th>Year</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Ph.D.</a></td>
+              <td>IMTECH/Panjab Univ. Chandigarh</td>
+              <td>1996</td>
+            </tr>
+
+            <tr>
+              <td>M.Tech.</a></td>
+              <td>Indian Institute of Technology, Delhi</td>
+              <td>1986</td>
+            </tr>
+            <tr>
+              <td>M.Sc.</a></td>
+              <td>Meerut University, Meerut</td>
+              <td>1984</td>
+            </tr>
+            <tr>
+              <td>B.Sc.</a></td>
+              <td>Meerut University, Meerut</td>
+              <td>1982</td>
+            </tr>
+</table>
+<br>
+
+<p>(8)&nbsp;&nbsp;&nbsp;<strong>National Awards/Recognition</strong></p>
+<ul><li><strong>Fellow of National Academy of Sciences, India</strong></li>
+<li><strong>Fellow of Indian Academy of Sciences, Banglore</strong></li>
+<li><strong>National Bioscience Award for Carrier Development 2006, by DBT</strong></li>
+<li><strong>Shanti Swarup Bhatnagar Award 2008 in Biological Sciences</strong></li>
+<li><strong>Thomson Reuters Research Excellence - India Research Front Awards 2009</strong></li>
+<li><strong>NASI-Reliance Industries Platinum Jubilee Award (2009)</strong></li>
+<li><strong>JC Bose National Fellowship, 2010-15 by Department of Science and Technology, India</strong></li>
+<li><strong>Lakshmipat Singhania-IIM Lucknow National Leadership Awards 2011 (Young Leader in category of Science and Technology)</strong></li>
+<li><strong>One paper listed in top 70 highly cited papers (ranked 18) published by CSIR scientists in last 70 years</strong></li>
+</ul>
+
+<br>
+<p>(9)&nbsp;&nbsp;&nbsp;<strong>Summary of work:</strong>&nbsp;<br>
+Raghava is a highly original and dedicated bioinformatician, who has developed numreous algorthms to provide computer-based solutions in the field of life science. His group has contributed in most of the fields of bioinformatics, chemoinfomatics and pharmacoinformatics. In order to provide base for data-intensive research, group developed more than thierty world-class biological databases in the field of bioinformatics, cheminformatics and pharminformatics. These databases are heavily used by experimentalist as well as by informatics specialists. All these databases have been published in reputed jounals (e.g., Bioinformatics, Nucleic Acids Research and Databases) and heavily used by scientific community for developing knowledge-based methods. Therapeutic peptides are possible alternative to traditional drugs based on small chemical compounds. Raghava's group is responsible for initiating a new field called peptide bioinformatics where group has developed numerous computational tools for designing therapeutic peptides. In the era of next generation sequencing where sequencing of whole genome of pathogens (bacteria/fungus/virus) and human is affordable; it is important to develop person or strain-specific medicine. Group developed numreous in silico tools for personalized medicine like HIVcoPred, CancerDR, DipCells.</p>
+<p class="rtejustify">The prediction of structure of a protein is one of major challenge in the field of drug development. His group developed method for predicting secondary structure (regular as well as irregular), super secondary structure (e.g. beta-hairpins, beta-barrels) and tertiary structure (ab initio methods for bioactive peptides). The performance of their best secondary structure prediction method was ranked within the top 5 methods in the world, according to the community wide competitions like CASP, CAFASP and EVA. Molecular interactions play a vital role in the field of biology whether it is protein-protein or protein-peptide or protein-nucleotide interactions. In order to understand interaction at system level, his group have developed large number of algorithms for predicting different type of interactions. His group developed algortithms for predicting following type of interactions; i) protein-protein (PROprint), ii) protein-DNA (DNAbinder), iii) protein-RNA, iv) glycosylation, v) protein-manose. Due to advancement in sequencing technology, thousands of organisms have been sequenced in last few year. In last one decade his group has developed number of in-silico methods for annotating genomes and proteomes of organism. In case of genome annotation, group have developed tools for predicting i) protein coding region in prokaryotic genomes using Fast Fourier Transformation, ii) similarity aided ab Initio method for predicting location and structure of genes in eukaryote genomes, iii) identification of spectral repeats using FFT and iv) genome-wide similarity search using BLAST and FASTA. It is difficult to predict function of a protein directly, thus group developed methods for predicting important class of proteins and proteins reside in specific location of a cell.</p>
+<p class="rtejustify">One of the unique feature of his group is that group provides solutions for complicated and emerging problems face by society. Recently group developed three in silico platforms (CancerDP, MtbVeb and EbolaVCR) for providing bioinformatics solutions for manging different diseases. CancerDP is a web-based service developed on for selecting right drug for right person; it rank cancer drugs in terms of their effectiveness for a given cancer patient based on genome sequence of cancer cells. This is pratical application of personalized medicine in manging cancer effectively. MtbVeb is a web-based platform developed for designing vaccines and immunotherapy against existing, emerging and drug-restant strains of mycobacterium tuberculosis. This includes drug resistant and extreme drug resistant M.Tb strains. It also allow users to design vaccines against M.tb using all three appraoches (strain, antigen and epitope based vaccines). The current version of portal maintain comprehensive genomic information about 59 mycobacterium strains that includes 4 vaccine strains, 6 clinical isolates, drug resistant strains. Ebola Virus Computational Resources (EbolaVCR) is the in silico resources developed to facilitate scientific community fighting against deadly virus Ebola. This server enlists possible vaccine candidates, therapeutic siRNAs and other related resources on Ebola virus. In summary group is providing need-based computer soltions in the field of human healthcare.</p>
+<p class="rtejustify">He has published more than 200 research papers in reputed journals with avargae impact factor around 4.0. Most of his papers are highly cited as per Google Scholar his papers got around 9600 citations with&nbsp;<a href="https://scholar.google.co.in/citations?user=XK5GUiYAAAAJ">h-index&nbsp;</a>52. He got "Thomson Reuters Research Excellence - India Research Front Awards 2009" because two of his papers ranked in the category of highly cited papers in the world. These papers are regularly used by the biologists for designing epitope based vaccines. In 2014, he has been listed in "The World's Most Influential Scientific Minds" by Thompson Reuters (. This list contains 3200 individuals who published the greatest number of highly cited papers in one of 21 broad fields, 2002-2012. Highly cited papers rank in the top 1% by citations for their field and year of publication. His group developed more than 200 insilico products (web servers, databases and software packages) which is highest contribution by a single group in the world. Raghava is strong supporter of open source software/web-servers; all service developed at his group are free for academic use (<a href="http://crdd.osdd.net/">See CRDD</a>). These web-based services are heavily used worldwide, more than 125,000 hits per day. Recently, impact of his web-based services has been evaluated based on cost of equivalent commercial software packages in market, it was found that group is providing service of woth Rs 200 crore per year to scientific community free.</p>
+</div>
+</div>
+</div>
+
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<div class="wrapper row4">
+  <footer id="footer" class="hoc clear">
+    <!-- ################################################################################################ -->
+    <div class="clear">
+        <div class="copyright"><a href="http://iiitd.ac.in/" target="_blank"> IIIT Delhi </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="http://webs.iiitd.edu.in/" target="_blank"> Health Portal at IITD</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="http://webs.iiitd.edu.in/raghava/" target="_blank"> Raghava's Group</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.facebook.com/raghavagps" target="_blank"> FACEBOOK </a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://scholar.google.co.in/citations?user=XK5GUiYAAAAJ&hl=en" target="_blank"> SCHOLAR</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.linkedin.com/in/raghavagps/" target="_blank"> LINKEDIN</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://twitter.com/raghavagps" target="_blank"> TWITTER</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.youtube.com/watch?v=V-0BTIKH78E" target="_blank"> YOUTUBE</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<td><a href="https://www.researchgate.net/profile/Gajendra_Raghava" target="_blank"> ResearchGate</a></td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tr>
+        </fieldset>
+      </form>
+    </div>
+    <!-- ################################################################################################ -->
+  </footer>
+</div>
+
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- ################################################################################################ -->
+<!-- JAVASCRIPTS -->
+<script src="layout/scripts/jquery.min.js"></script>
+<script src="layout/scripts/jquery.backtotop.js"></script>
+<script src="layout/scripts/jquery.mobilemenu.js"></script>
+</body>
+</html>
+
