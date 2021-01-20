@@ -1,311 +1,264 @@
-16	'
-32	abag
-20	abc.html
-540	abcpred
-1116672	ahtpdb
-217900	ahtpin
-3312	algpred
-735956	algpred2
-316	alphapred
-36	alumni.html
-3464	antiangiopred
-1560	antibp
-596	antibp2
-20136	anticp
-18680	anticp2
-2222664	antifp
-356264	antigendb
-10252	antimpmod
-544544	Antiparasitic
-29932	antitbpdb
-4484	antitbpred
-164620	apocand
-8	apssp
-16	apssp2
-2152	ar_nhpred
-732	atpint
-8	authorize.php
-16	awards.html
-492	bcepred
-132824	bcipep
-8	betapred
-732	betatpred
-872	betatpred2
-107596	betatpred3
-992	betaturns
-2980	bhairpred
-132860	biadb
-20	biodata.html
-16	biodrug.html
-1108	biotherapi
-940	blast
-12	bookchapter.html
-15500	bteval
-3364	btxpred
-463672	cancercsp
-13712164	cancerdp
-443812	cancerdr
-242564	cancerend
-43968	canceres
-10655244	cancerliver
-1247592	cancerlsp
-99024	cancerpdf
-1481212	cancerppd
-2936	cancer_pred
-60416	cancersp
-332548	cancerspp
-5802196	cancertope
-787704	cancertsp
-290120	cancerubm
-260544	carbotope
-78944	cbtope
-46264	ccdb
-4211028	ccpdb
-112012	cellppd
-15204	cellppdmod
-112	CHANGELOG.txt
-16	chemiinfo.html
-216	chemopred
-4552	chpredict
-6084	cmcrpred
-12	contact.html
-0	copid
-4252	COPid
-4	COPYRIGHT.txt
-212796	coronavir
-191164	coronavir_back
-12	courses.html
-165052	cppsite
-144392	cppsite1
-4928	crcrpred
-248	crip
-4	cron.php
-3792	ctlpred
-616204	cyto
-3480	cytopred
-1328	dadpred
-1045840	dampro
-20	database.html
-737784	dbem
-9560	denvind
-3128	desirm
-544084	dipcell
-352	dmkpred
-6880	dnabinder
-8180	dnaint
-12	dnasize
-29336	domprint
-2480	dorlok
-25212	dprot
-135656	ecdb
-36308	ecgpred
-1129272	egfrindb
-12028	egpred
-2244	eslpred
-7172	eslpred2
-6184	evolfdb
-184	fadpred
-4	favicon.ico
-1144	fdr4
-117684	fermfoodb
-19348	fisipred
-9552	ftg
-992	gammapred
-146240	gdoq
-316	gdpbio
-16	genomics.html
-7404	glycoep
-2360	glycopp
-4840	gmpesi
-2632	gpcrpred
-724	gpcrsclass
-155460	gpsr
-11440	gstpred
-2196	gtpbinder
-69240	haptendb
-64240	hccpred
-32	help_cancerspp.php
-718604	hemolytik
-50176	hemopi
-20628	hemopimod
-748896	herceptinr
-646952	hivbio
-6072	hivcopred
-7496	hivint
-1408	hladr4pred
-10948	hlp
-708632	hmrbase
-4848	hslpred
-11894920	humcfs
-4804	icaars
-18476	ifnepitope
-216744	igpred
-376904	il10pred
-24344	il4pred
-57392	images
-65204	immunospdb
-4	immunosppred
-714336	imrna
-2348	includes
-36	index1.html
-4	index.drp
-4	index_html
-64	index.html
-44	index.html~
-26308	indiabiodb
-4	INSTALL.mysql.txt
-4	INSTALL.pgsql.txt
-4	install.php
-4	INSTALL.sqlite.txt
-20	INSTALL.txt
-16	interactome.html
-2796	isspred
-14436	kidoq
-1952	layout
-1064	layout_old
-93252	lbtope
-3376	lgepred
-8	licence.txt
-20	LICENSE.txt
-37620	lpicom
-8	mafft
-12	MAINTAINERS.txt
-20	major_project.html
-8	mango
-1324	marspred
-1256	metapred
-51400	mhcbn
-936	misc
-7392	mitpred
-3644	mmbpred
-11420	modules
-8983204	mtbveb
-6836	mycoprint
-3696	MyPattern
-1124	nadbinder
-1126336	nagbinder
-43924	nagsite
-9580	neuropipred
-3568	news
-636	newsite
-12	newspaper.html
-2984	nhlapred
-184568	npact
-11544	nppred
-2760	nrpred
-5464	ntxpred
-0	o1.js
-28	oc
-17756	ovirustdb
-9952	oxdbase
-1312	oxypred
-712	paaint
-196	pages
-455948	parapep
-20	patents_copy.html
-619784	pcleavage
-108872	pcmdb
-81764	pep2d
-53728	pepstr
-58824	pepstr2
-43996	pepstrmod
-247608	pfeature
-688	pfmpred
-4632	phdcleav
-24	phd_student.html
-52140	pldbench
-45168	plifepred
-2068	polyapred
-244952	polysacdb
-48000	ppdbench
-408	pprint
-3896	premier
-32	preprints.html
-4	procanbio
-112	profiles
-228008	proglycprot
-3916	progs
-12	project_staff.html
-2756	propred
-4568	propred1
-5480	proprint
-20	prot_func.html
-16	prot_struct.html
-2968	prrdb
-52440	prrdb2
-20232	prrpred
-136	psa
-6992	pseapred
-9128	pseapred2
-2004	pslpred
-100	publication.html
-162616	qaspro
-42276	raghava1
-722836	rarelsd
-4332	rbpred
-8	README.txt
-299744	reprints
-8	RISCbinder
-290260	rnacon
-400236	rnaint
-147428	rnapin
-19564	rnapred
-4	robots.txt
-8	rpfold
-1132	rrcpred
-7272	rslpred
-112128	sambinder
-77068	sapdb
-34744	sarpred
-577724	satpdb
-88	scripts
-772	sirnapred
-104	sitemap1.xml
-104	sitemap.xml
-34464	sites
-36992	skcmhrp
-97172	skinpp
-442884	slides
-24	slides.html
-555632	srf
-1252	srtpred
-19956	starpdb
-24	str_replace2
-24	str_replace2~
-12	sw
-3576	tappred
-784	tbbpred
-2272	tbpred
-68	team
-22652	temp
-4	temp.pl
-4	temp.pl~
-4	temp.txt
-4	temp.txt~
-20	test
-668	themes
-100120	thepred
-1093176	thpdb
-4	thycanbio
-19260	tlr4hi
-472	tmhcpred
-1183412	topicalpdb
-62128	toxinpred
-1712	toxipred
-7072	trnamod
-117864	tsppred
-67436	tumorhope
-174348	tumorhpd
-132616	tumorxp
-20	update.php
-12	UPGRADE.txt
-9490244	vaccineda
-20	vaccine.html
-2067428	vactarbac
-51228	vaxinpad
-4168	vgichan
-1020	vicmpred
-85416	vitapred
-4	web.config
-28	work_sum.html
-4	xmlrpc.php
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 abag
+drwxr-xr-x  2 salman    gpsr     4096 Apr 11  2019 abcpred
+drwxr-xr-x 31 gpsr      gpsr    12288 Apr 11  2019 ahtpdb
+drwxr-xr-x 14 deepika   gpsr    12288 Apr 11  2019 ahtpin
+drwxr-xr-x  4 salman    gpsr     4096 Apr 11  2019 algpred
+drwxr-xr-x 13 neelam    gpsr     4096 Nov 17 23:22 algpred2
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 alphapred
+drwxr-xr-x  7 deepika   gpsr     4096 Apr 11  2019 antiangiopred
+drwxr-xr-x  3 harpreet  gpsr     4096 Apr 11  2019 antibp
+drwxr-xr-x  3 harpreet  gpsr     4096 Apr 11  2019 antibp2
+drwxr-xr-x  8 deepika   gpsr    12288 Apr 11  2019 anticp
+drwxr-xr-x  9 neelam    gpsr     4096 Aug  9 12:08 anticp2
+drwxr-xr-x 11 root      gpsr     4096 May  8  2020 antifp
+drwxr-xr-x 14 gandharva gpsr     4096 Apr 11  2019 antigendb
+drwxr-xr-x  5 root      gpsr     4096 Feb  5  2020 antimpmod
+drwxr-xr-x 13 gpsr      gpsr     4096 Apr 14  2017 Antiparasitic
+drwxr-xr-x  9 vinod     gpsr     4096 Sep 25 10:31 antitbpdb
+drwxr-xr-x  5 salman    gpsr     4096 Aug  3  2019 antitbpred
+drwxr-xr-x 14 vinod     gpsr     4096 Apr 11  2019 apocand
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 apssp
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 apssp2
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 ar_nhpred
+drwxr-xr-x  5 sherry    gpsr     4096 Apr 11  2019 atpint
+drwxr-xr-x 11 vinod     gpsr     4096 Jan  7 15:55 b3pdb
+drwxr-xr-x  6 vinod     gpsr     4096 Nov  8 18:20 b3pred
+drwxr-xr-x  3 deepika   gpsr     4096 Apr 11  2019 bcepred
+drwxr-xr-x 11 salman    gpsr     4096 Apr 11  2019 bcipep
+drwxr-xr-x  3 root      gpsr     4096 Apr 11  2019 betatpred
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 betatpred2
+drwxr-xr-x 10 root      gpsr     4096 Apr 11  2019 betatpred3
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 betaturns
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 bhairpred
+drwxr-xr-x 25 harpreet  gpsr     4096 Apr 11  2019 biadb
+-rwxr-xr-x  1 root      gpsr    13947 Nov 28  2019 biodrug.html
+drwxr-xr-x  2 deepika   gpsr     4096 Apr 11  2019 biotherapi
+drwxr-xr-x  7 rajesh    gpsr     4096 Apr 11  2019 blast
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 bteval
+drwxr-xr-x  2 vinod     gpsr     4096 Apr 11  2019 btxpred
+drwxr-xr-x 16 sherry    gpsr     4096 Apr 11  2019 cancercsp
+drwxr-xr-x 19 harpreet  gpsr     4096 Apr 11  2019 cancerdp
+drwxr-xr-x 32 sherry    gpsr    16384 Apr 11  2019 cancerdr
+drwxr-xr-x 10 root      gpsr     4096 May 27  2020 cancerend
+drwxr-xr-x  8 gpsr      gpsr     4096 Apr 11  2019 canceres
+drwxr-xr-x 32 harpreet  gpsr    20480 Jul 29 18:58 cancerliver
+drwxr-xr-x 13 harpreet  gpsr     4096 Nov 10 21:31 cancerlsp
+drwxr-xr-x 16 harpreet  gpsr     4096 Jan 16  2020 cancerpdf
+drwxr-xr-x 30 vinod     gpsr    12288 Apr 11  2019 cancerppd
+drwxr-xr-x  5 rajesh    gpsr     4096 Apr 11  2019 cancer_pred
+drwxr-xr-x 13 sherry    gpsr     4096 Apr 11  2019 cancersp
+drwxr-xr-x 12 sherry    gpsr     4096 Apr 26  2020 cancerspp
+drwxr-xr-x 30 harpreet  gpsr    12288 Apr 11  2019 cancertope
+drwxr-xr-x 25 harpreet  gpsr     4096 Apr  2  2020 cancertsp
+drwxr-xr-x 26 sherry    gpsr    12288 Apr 11  2019 cancerubm
+drwxr-xr-x  9 gpsr      gpsr     4096 Apr 11  2019 carbotope
+drwxr-xr-x  7 harpreet  gpsr     4096 Apr 11  2019 cbtope
+drwxr-xr-x  9 rajesh    gpsr     4096 Apr 11  2019 ccdb
+drwxr-xr-x 12 root      gpsr    20480 Apr 22  2019 ccpdb
+drwxr-xr-x  7 deepika   gpsr    12288 Apr 11  2019 celled
+drwxr-xr-x  7 root      gpsr     4096 Feb  5  2020 cellppdmod
+drwxr-xr-x  2 vinod     gpsr     4096 Apr 11  2019 chomped
+drwxr-xr-x  5 vinod     gpsr     4096 Apr 11  2019 chpredict
+drwxr-xr-x  5 dilraj    gpsr     4096 Sep 25 15:02 cmcrpred
+drwxr-xr-x  4 deepika   gpsr     4096 Apr 11  2019 COPid
+drwxr-xr-x 22 harpreet  gpsr    12288 Nov 15 14:01 coronavir
+drwxr-xr-x 21 dilraj    gpsr    12288 Mar 22  2020 coronavir_back
+drwxr-xr-x 13 salman    gpsr     4096 Apr 11  2019 cppsite
+drwxr-xr-x 17 salman    gpsr    12288 Apr 11  2019 cppsite1
+drwxr-xr-x  5 chakita   gpsr     4096 Nov 10 21:25 crcrpred
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 crip
+drwxr-xr-x  8 deepika   gpsr     4096 Apr 11  2019 ctlpred
+drwxr-xr-x  7 gpsr      gpsr     4096 Apr 11  2019 cyto
+drwxr-xr-x  3 gandharva gpsr     4096 Apr 11  2019 cytopred
+drwxr-xr-x  5 gpsr      gpsr     4096 Apr 11  2019 dadpred
+drwxr-xr-x 24 gpsr      gpsr    12288 Apr 11  2019 dampro
+drwxr-xr-x 13 rajesh    gpsr     4096 Apr 11  2019 dbem
+drwxr-xr-x  7 root      gpsr     4096 Jun  9  2020 denvind
+drwxr-xr-x  5 sherry    gpsr     4096 Apr 11  2019 desirm
+drwxr-xr-x 15 rajesh    gpsr     4096 Apr 11  2019 dipcell
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 dmkpred
+drwxr-xr-x  4 harpreet  gpsr     4096 Apr 11  2019 dnabinder
+drwxr-xr-x  4 gpsr      gpsr     4096 Apr 11  2019 dnaint
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 dnasize
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 domprint
+drwxr-xr-x  6 gpsr      gpsr     4096 Apr 11  2019 dorlok
+drwxr-xr-x  7 vinod     gpsr     4096 Apr 11  2019 dprot
+drwxr-xr-x 13 root      gpsr     4096 Apr 11  2019 ecdb
+drwxr-xr-x  2 gandharva gpsr     4096 Apr 11  2019 ecgpred
+drwxr-xr-x 14 deepika   gpsr     4096 Apr 11  2019 egfrindb
+drwxr-xr-x  5 gandharva gpsr     4096 Apr 11  2019 egpred
+drwxr-xr-x  4 sherry    gpsr     4096 Apr 11  2019 eslpred
+drwxr-xr-x  5 gandharva gpsr     4096 Apr 11  2019 eslpred2
+drwxrwxr-x  7 dilraj    gpsr     4096 Dec 19 14:13 evolfdb
+drwxr-xr-x  3 salman    gpsr     4096 Apr 11  2019 fadpred
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 fdr4
+drwxr-xr-x 16 sherry    gpsr     4096 Jan 13 18:48 fermfoodb
+drwxr-xr-x  7 gpsr      gpsr     4096 Apr 11  2019 fisipred
+drwxr-xr-x  6 sherry    gpsr     4096 Apr 11  2019 ftg
+drwxr-xr-x  2 gandharva gpsr     4096 Apr 11  2019 gammapred
+drwxr-xr-x  7 vinod     gpsr     4096 Apr 11  2019 gdoq
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 gdpbio
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 glycoep
+drwxr-xr-x  4 harpreet  gpsr     4096 Apr 11  2019 glycopp
+drwxr-xr-x  6 gpsr      gpsr     4096 Apr 11  2019 gmpesi
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 gpcrpred
+drwxr-xr-x  4 gandharva gpsr     4096 Apr 11  2019 gpcrsclass
+drwxr-xr-x 10 gpsr      gpsr     4096 Apr 11  2019 gpsr
+drwxr-xr-x  5 sherry    gpsr     4096 Apr 11  2019 gstpred
+drwxr-xr-x  8 gandharva gpsr     4096 Apr 11  2019 gtpbinder
+drwxr-xr-x 19 salman    gpsr     4096 May 29  2019 haptendb
+drwxr-xr-x 16 harpreet  gpsr     4096 Sep 12 23:22 hccpred
+drwxr-xr-x 30 rajesh    gpsr    12288 Apr 11  2019 hemolytik
+drwxr-xr-x 13 deepika   gpsr     4096 Jul  8  2020 hemopi
+drwxr-xr-x  5 vinod     gpsr     4096 Oct 21 17:33 hemopimod
+drwxr-xr-x 21 salman    gpsr     4096 Apr 11  2019 herceptinr
+drwxr-xr-x  5 gpsr      gpsr     4096 Apr 11  2019 hivbio
+drwxr-xr-x  6 deepika   gpsr     4096 Apr 11  2019 hivcopred
+drwxr-xr-x  6 gpsr      gpsr     4096 Apr 11  2019 hivint
+drwxr-xr-x  3 sherry    gpsr     4096 Apr 11  2019 hladr4pred
+drwxr-xr-x  6 gandharva gpsr     4096 Apr 11  2019 hlp
+drwxr-xr-x 25 gandharva gpsr    12288 Apr 11  2019 hmrbase
+drwxr-xr-x  9 deepika   gpsr     4096 Apr 11  2019 hslpred
+drwxr-xr-x  9 rajesh    gpsr     4096 Jul  2  2020 humcfs
+drwxr-xr-x  4 gandharva gpsr     4096 Apr 11  2019 icaars
+drwxr-xr-x  4 salman    gpsr     4096 Jul 24 20:41 ifnepitope
+drwxr-xr-x  7 rajesh    gpsr     4096 Apr 11  2019 igpred
+drwxr-xr-x  9 salman    gpsr     4096 Apr 11  2019 il10pred
+drwxrwxr-x  9 anjalil   gpsr     4096 Aug 25 16:52 il2pred
+drwxr-xr-x 13 deepika   gpsr     4096 Apr 11  2019 il4pred
+drwxr-xr-x 12 sumeet    gpsr     4096 Nov  7 15:53 il6pred
+drwxr-xr-x  3 root      gpsr     4096 Nov 28  2019 images
+drwxr-xr-x 12 salman    gpsr     4096 Apr 11  2019 immunospdb
+drwxr-xr-x  2 salman    gpsr     4096 Nov  6  2019 immunosppred
+drwxr-xr-x 11 gandharva gpsr     4096 Apr 11  2019 imrna
+drwxr-xr-x  4 root      gpsr     4096 Apr 25  2018 includes
+-rwxr-xr-x  1 root      gpsr      529 Apr 10  2019 index.drp
+drwxr-xr-x  9 root      gpsr     4096 May 11  2020 indiabiodb
+drwxr-xr-x  5 sherry    gpsr     4096 Apr 11  2019 isspred
+drwxr-xr-x  6 rajesh    gpsr     4096 Apr 11  2019 kidoq
+drwxr-xr-x  4 root      gpsr     4096 Nov 26  2019 layout
+drwxr-xr-x  4 gpsr      gpsr     4096 Apr 11  2019 layout_old
+drwxr-xr-x  5 rajesh    gpsr     4096 Apr 11  2019 lbtope
+drwxr-xr-x  9 harpreet  gpsr     4096 Jun  5  2020 leukemiabd
+drwxr-xr-x  3 harpreet  gpsr     4096 Apr 11  2019 lgepred
+drwxr-xr-x 19 root      gpsr     4096 Jul  9  2020 lpicom
+drwxr-xr-x  3 root      gpsr     4096 Jul 24 18:39 __MACOSX
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 mafft
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 mango
+drwxr-xr-x  6 harpreet  gpsr     4096 Apr 11  2019 marspred
+drwxr-xr-x  3 sherry    gpsr     4096 Apr 11  2019 metered
+drwxr-xr-x 15 gandharva gpsr     4096 Jun 28  2020 mhcbn
+drwxr-xr-x  4 root      gpsr     4096 Apr 25  2018 misc
+drwxr-xr-x  3 vinod     gpsr     4096 Apr 11  2019 mitred
+drwxr-xr-x  6 gandharva gpsr     4096 Apr 11  2019 mmbpred
+drwxr-xr-x 42 root      gpsr     4096 Apr 25  2018 modules
+drwxr-xr-x 24 vinod     gpsr    12288 Apr 11  2019 mtbveb
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 mycoprint
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 MyPattern
+drwxr-xr-x  5 sherry    gpsr     4096 Apr 11  2019 nadbinder
+drwxr-xr-x  8 sumeet    gpsr     4096 Nov 13 12:51 nagbinder
+drwxr-xr-x  6 root      gpsr     4096 Mar 21  2017 nagsite
+drwxr-xr-x  9 root      gpsr     4096 May  8  2020 neuropipred
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 news
+drwxr-xr-x  2 root      gpsr     4096 Nov 26  2019 newsite
+drwxr-xr-x 21 ritu      gpsr    16384 Dec 29 18:28 nfeature
+drwxr-xr-x  6 rajesh    gpsr     4096 Apr 11  2019 nhlapred
+drwxr-xr-x 14 rajesh    gpsr     4096 Apr 11  2019 npact
+drwxr-xr-x  8 harpreet  gpsr     4096 Apr 11  2019 nppred
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 nrpred
+drwxr-xr-x  2 sherry    gpsr     4096 Apr 11  2019 ntxpred
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 oc
+drwxr-xr-x  8 root      gpsr     4096 Jun  9  2020 ovirustdb
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 oxdbase
+drwxr-xr-x  2 gandharva gpsr     4096 Apr 11  2019 oxypred
+drwxr-xr-x  4 gpsr      gpsr     4096 Apr 11  2019 paaint
+drwxr-xr-x  2 root      gpsr     4096 Nov 26  2019 pages
+drwxr-xr-x 24 rajesh    gpsr     4096 Apr 11  2019 parapep
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 pcleavage
+drwxr-xr-x 16 gandharva gpsr    12288 Apr 11  2019 pcmdb
+drwxr-xr-x  7 gpsr      gpsr     4096 May 30  2019 pep2d
+drwxr-xr-x 20 root      gpsr     4096 Jun  7  2020 peplife
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 pepstr
+drwxr-xr-x  6 gpsr      gpsr     4096 Apr 11  2019 pepstr2
+drwxrwxrwx  9 root      gpsr     4096 Jul  8  2020 pepstrmod
+drwxr-xr-x  9       501 gpsr    12288 Jul  8  2020 pepstrmod1
+drwxrwxr-x  9 deepika   gpsr     4096 Jul  1  2020 pepstrmod2
+drwxr-xr-x 13 harpreet  gpsr    12288 Dec 18 23:14 pfeature
+drwxr-xr-x  5 rajesh    gpsr     4096 Apr 11  2019 pfmpred
+drwxr-xr-x  3 harpreet  gpsr     4096 Apr 11  2019 phdcleav
+drwxr-xr-x  7 root      gpsr     4096 Apr 11  2019 pldbench
+drwxr-xr-x 14 deepika   gpsr     4096 Apr 11  2019 plifepred
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 polyapred
+drwxr-xr-x 28 sherry    gpsr     4096 Apr 11  2019 polysacdb
+drwxr-xr-x  6 root      gpsr     4096 Apr 11  2019 ppdbench
+drwxr-xr-x  5 rajesh    gpsr     4096 Apr 11  2019 pprint
+drwxr-xr-x  4 harpreet  gpsr     4096 Apr 11  2019 premier
+drwxr-xr-x  7 harpreet  gpsr     4096 Aug 12 21:35 procanbio
+drwxr-xr-x  5 root      gpsr     4096 Apr 25  2018 profiles
+drwxr-xr-x 16 sherry    gpsr    12288 Apr 11  2019 proglycprot
+drwxr-xr-x 10 gpsr      gpsr     4096 Jun 25  2004 progs
+drwxr-xr-x  9 salman    gpsr     4096 Apr 11  2019 propred
+drwxr-xr-x  4 salman    gpsr     4096 Apr 11  2019 propred1
+drwxr-xr-x  4 root      gpsr     4096 Apr 11  2019 proprint
+drwxr-xr-x  7 salman    gpsr     4096 Dec 27  2019 prrdb
+drwxr-xr-x  9 salman    gpsr     4096 Dec 27  2019 prrdb2
+drwxr-xr-x  8 dilraj    gpsr     4096 Sep 25 14:59 prrpred
+drwxr-xr-x  2 sherry    gpsr     4096 Apr 11  2019 psa
+drwxr-xr-x  6 gandharva gpsr     4096 Apr 11  2019 pseapred
+drwxr-xr-x  5 gpsr      gpsr     4096 Apr 11  2019 pseapred2
+drwxr-xr-x  6 deepika   gpsr     4096 Apr 11  2019 pslpred
+drwxr-xr-x  6 gandharva gpsr     4096 Apr 11  2019 qaspro
+drwxr-xr-x  9 root      gpsr     4096 Apr 11  2019 raghava1
+drwxr-xr-x  2 root      gpsr     4096 Jul 24 18:33 Raghava_Full_CV.fld
+drwxr-xr-x 29 harpreet  gpsr    12288 Nov  5  2019 rarelsd
+drwxr-xr-x  3 salman    gpsr     4096 Apr 11  2019 rbpred
+drwxr-xr-x  2 gpsr      gpsr    12288 May 29  2019 reprints
+drwxr-xr-x  2 root      gpsr     4096 Apr 11  2019 RISCbinder
+drwxr-xr-x  9 rajesh    gpsr     4096 Apr 11  2019 rnacon
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 rnaint
+drwxr-xr-x  6 harpreet  gpsr     4096 Apr 11  2019 rnapin
+drwxr-xr-x 10 salman    gpsr     4096 Apr 11  2019 rnapred
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 rpfold
+drwxr-xr-x  6 vinod     gpsr     4096 Apr 11  2019 rrcpred
+drwxr-xr-x  2 sherry    gpsr     4096 Apr 11  2019 rslpred
+drwxr-xr-x  8 root      gpsr     4096 Jun 24  2019 sambinder
+drwxr-xr-x 22 harpreet  gpsr     4096 Sep 16 11:17 sapdb
+drwxr-xr-x  7 rajesh    gpsr     4096 Apr 11  2019 sarpred
+drwxr-xr-x 12 sherry    gpsr     4096 Apr 11  2019 satpdb
+drwxr-xr-x  2 root      gpsr     4096 Apr 25  2018 scripts
+drwxr-xr-x  3 gpsr      gpsr     4096 Apr 11  2019 sirnapred
+drwxr-xr-x  4 ankit     gpsr     4096 Apr 11  2019 sites
+drwxr-xr-x  9 anjali    gpsr     4096 Oct 16 10:23 skcmhrp
+drwxr-xr-x 41 deepika   gpsr    12288 Apr 11  2019 skinpp
+drwxr-xr-x  3 gpsr      gpsr     4096 Sep 21  2017 slides
+drwxr-xr-x  6 harpreet  gpsr     4096 Apr 11  2019 srf
+drwxr-xr-x  4 vinod     gpsr     4096 Apr 11  2019 srtpred
+drwxr-xr-x  8 harpreet  gpsr     4096 Apr 11  2019 starpdb
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 sw
+drwxr-xr-x  4 deepika   gpsr     4096 Apr 11  2019 tappred
+drwxr-xr-x  3 salman    gpsr     4096 Apr 11  2019 tbbpred
+drwxr-xr-x  3 salman    gpsr     4096 Apr 11  2019 tbpred
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 team
+drwxr-xr-x 14 gpsr      gpsr     4096 Apr 11  2019 temp
+drwxr-xr-x  2 gpsr      gpsr     4096 Apr 11  2019 test
+drwxr-xr-x  7 root      gpsr     4096 Apr 10  2019 themes
+drwxr-xr-x 12 sumeet    gpsr     4096 Jul 18  2019 thepred
+drwxr-xr-x 22 salman    gpsr     4096 Nov 28  2019 thpdb
+drwxr-xr-x  9 harpreet  gpsr     4096 Jun  5  2020 thycanbio
+drwxr-xr-x  5 gpsr      gpsr     4096 Apr 11  2019 tlr4hi
+drwxr-xr-x  3 rajesh    gpsr     4096 Apr 11  2019 tmhcpred
+drwxr-xr-x 19 deepika   gpsr    12288 Apr 11  2019 topicalpdb
+drwxr-xr-x 11 deepika   gpsr    12288 Apr 11  2019 toxinpred
+drwxr-xr-x  5 vinod     gpsr     4096 Apr 11  2019 toxipred
+drwxr-xr-x  4 salman    gpsr     4096 Apr 11  2019 trnamod
+drwxr-xr-x  6 harpreet  gpsr     4096 Apr 11  2019 tsppred
+drwxr-xr-x 23 root      gpsr    12288 Mar 23  2020 tumorhope
+drwxr-xr-x 17 salman    gpsr    12288 Apr 11  2019 tumorhpd
+drwxr-xr-x 12 gpsr      gpsr     4096 Apr 11  2019 tumorxp
+drwxr-xr-x 17 gandharva gpsr     4096 Apr 11  2019 vaccineda
+drwxr-xr-x 12 salman    gpsr     4096 Jun 18  2020 
+drwxr-xr-x 10 gandharva gpsr     4096 Apr 11  2019 vaxinpad
+drwxr-xr-x  2 sherry    gpsr     4096 Apr 11  2019 vgichan
+drwxr-xr-x  2 deepika   gpsr     4096 Apr 11  2019 vicmpred
+drwxr-xr-x  5 harpreet  gpsr     4096 Apr 11  2019 vitapred
+drwxr-xr-x 16 anjalil   gpsr     4096 Jan 13 14:20 vlcvirus
