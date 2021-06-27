@@ -7,12 +7,12 @@ Copyright: OS-Templates.com
 Licence: Free to use under our free template licence terms
 Licence URI: https://www.os-templates.com/template-terms
 -->
-<html lang="en">
+<html lang="">
 <!-- To declare your language - read more here: https://www.w3.org/International/questions/qa-html-language-declarations -->
 <head>
 <title>G.P.S. Raghava</title>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body id="top">
@@ -70,7 +70,7 @@ Licence URI: https://www.os-templates.com/template-terms
             <li><a href="index.html">About Me</a></li>
             <li><a href="work_sum.html">Work Summary</a></li>
             <li><a href="awards.html">Major Awards</a></li>
-            <li><a href="newspaper.html">News Papers</a></li>
+            <li class="active"><a href="newspaper.html">News Papers</a></li>
             <li><a href="biodata.html">Brief Biodata</a></li>
           </ul>
 	</li>
@@ -78,7 +78,7 @@ Licence URI: https://www.os-templates.com/template-terms
           <ul>
             <li><a href="database.html">Databases</a></li>
             <li><a href="prot_struct.html">Protein Structure</a></li>
-            <li class="active"><a href="prot_func.html">Protein Function</a></li>
+            <li><a href="prot_func.html">Protein Function</a></li>
             <li><a href="vaccine.html">Vaccinomics</a></li>
             <li><a href="genomics.html">Genomics</a></li>
             <li><a href="biodrug.html">BioDrugs</a></li>
@@ -124,143 +124,21 @@ Licence URI: https://www.os-templates.com/template-terms
     <!-- ################################################################################################ -->
     <div class="content">
     <!-- ################################################################################################ -->
-	<h1><strong>Protein Structure</strong></h1>
-	<h2><strong>Protein Structure Prediction Servers</strong></h2>
+	<h1><strong>News Papers</strong></h1>
+	<h2><strong>News published in News Papers that covers Raghava's achievements</strong></h2>
 	
-      <div class="scrollable">
-        <table>
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Description</th>
-            </tr>
-          </thead>
-          <tbody>
-
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/algpred/" target="_blank">ALGpred</a></td>
-              <td>Prediction of allergenic proteins and mapping of IgE epitopes in antigens.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/btxpred/" target="_blank">BTXpred</a></td>
-              <td>A server for predicting bacterial toxins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/cancer_pred/" target="_blank">CancerPred</a></td>
-              <td>Prediction of the cancerlectins.</td>
-            </tr>
-            <tr>
-              <td><a href="http://webs.iiitd.edu.in/raghava/chloropred/" target="_blank">ChloroPred</a></td>
-              <td>Prediction of chloroplast proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/copid/" target="_blank">COPid</a></td>
-              <td>Composition based identification and classification of proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="http://bioinfo.icgeb.res.in/cyclinpred/" target="_blank">CyclinPred</a></td>
-              <td>CyclinPred is a SVM based prediction method to identify novel cyclins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/cytopred/" target="_blank">CytoPred</a></td>
-              <td>It is a webserver for prediction and classification of cytokines.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/dnasize/" target="_blank">DNAsize</a></td>
-              <td>Computation of size of DNA and Protein Fragments from Their Electrophoretic Mobility.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/eslpred/" target="_blank">ESLPred</a></td>
-              <td>Subcellular localization of the eukaryotic proteins using dipeptide compostion and PSI-BLAST.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/eslpred2/" target="_blank">ESLPred2</a></td>
-              <td>Advanced method for subcellular localization of eukaryotic proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/gpcrpred/" target="_blank">GPCRpred</a></td>
-              <td>Prediction of families and superfamilies of G-protein coupled receptors (GPCR).</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/gpcrsclass/" target="_blank">GPCRsclass</a></td>
-              <td>This webserver predicts amine type of G-protein coupled receptors.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/gstpred/" target="_blank">GSTPred</a></td>
-              <td>SVM-based method for predicting Glutathione S-transferase protein.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/hivcopred/" target="_blank">HIVcoPred</a></td>
-              <td>Predicting coreceptor used by HIV-1 from Its V3 loop amino acid sequence.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/hslpred/" target="_blank">HSLPred</a></td>
-              <td>Prediction of subcellular localization of human proteins with high accuracy.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/isspred/" target="_blank">ISSPred</a></td>
-              <td>Prediction of Intein Splice Site.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/lgepred/" target="_blank">LGEpred</a></td>
-              <td>Correlation analysis and prediction of genes expression from amino acid sequence of proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/mango/" target="_blank">MANGO</a></td>
-              <td>Prediction of Protein Function from Manually Annotated proteins based on GO (Gene Ontology).</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/mitpred/" target="_blank">MitPred</a></td>
-              <td>Prediction of mitochondrial proteins using SVM and hidden Markov model.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/nrpred/" target="_blank">NRpred</a></td>
-              <td>A SVM based method for the classification of nuclear receptors.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/ntxpred/" target="_blank">NTXpred</a></td>
-              <td>Identification of neurotoxins their source and function from primary amino acid sequence.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/oxypred/" target="_blank">OxyPred</a></td>
-              <td>Classification and prediction of oxygen binding proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/pfmpred/" target="_blank">PFMpred</a></td>
-              <td>Predicting mitochondrial proteins of malaria parasite Plasmodium falciparum.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/proprint/" target="_blank">ProPrInt</a></td>
-              <td>A web-server predicts physical or functional interactions between protein molecules.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/pseapred/" target="_blank">PSEApred</a></td>
-              <td>Prediction of Plasmodium Secretory and Infected Erythrocyte Associated Proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/pslpred/" target="_blank">PSLpred</a></td>
-              <td>Predict subcellular localization of prokaryotic proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/rslpred/" target="_blank">RSLpred</a></td>
-              <td>A method for the subcellular localization prediction of rice proteins.</td>
-            </tr>
-            <tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/tbpred/" target="_blank">TBPred</a></td>
-              <td>A webserver  that predicts four subcellular localization of mycobacterial proteins.</td>
-            </tr>
-            </tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/vgichan/" target="_blank">VGIchain</a></td>
-              <td>Voltage gated ion channel prediction server.</td>
-            </tr>
-            </tr>
-              <td><a href="https://webs.iiitd.edu.in/raghava/vicmpred/" target="_blank">VICMpred</a></td>
-              <td>Prediction of Virulence factors, Information molecule, Cellular process and Metabolism molecule in the Bacterial proteins.</td>
-            </tr>
+	<ul><li><a href="http://webs.iiitd.edu.in/raghava/news/cancertope_telegraph.pdf">Web based cancer platform launched&nbsp;</a>(2016)&nbsp;<a href="http://www.telegraphindia.com/1161128/jsp/nation/story_121732.jsp#.WE6PQfOfORs">The Telegraph India</a></li>
+<li><a href="http://timesofindia.indiatimes.com/city/chandigarh/Change-head8-Indians-pale-in-comparison-with-163-Chinese-in-list-of-highly-cited-researchers/articleshow/38983168.cms">Change head!!8 Indians</a>&nbsp;(2014)&nbsp;<a href="http://webs.iiitd.edu.in/news/raghava/times_thomson.pdf">The Times of India</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/Bios_raghava.pdf">Notable bioinformatician - Dr Gajendra Pal Singh Raghava</a>&nbsp;(2013)&nbsp;<a href="http://www.biospectrumindia.com/biospecindia/features/174140/notable-bioinformatician-i-dr-gajendra-pal-singh-raghava-i">BioSpectrum</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/Bios_award.pdf">IMTECH scientist bags Lakshmipat Singhania-IIM Lucknow National Leadership Award</a>&nbsp;(2013)&nbsp;<a href="http://webs.iiitd.edu.in/raghava/news.html">BioSpectrum</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/india_research_award.pdf">INDIA RESEARCH FRONT AWARDS 2009</a>&nbsp;<a href="http://ip-science.thomsonreuters.com/ssr/media/program.pdf">Thomson Reuters</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/nature_cite.pdf">Is citation a good criterion?</a>&nbsp;(2009)&nbsp;<a href="http://www.natureasia.com/en/nindia/article/10.1038/nindia.2009.133">Nature India</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/hindu.pdf">Shanti Swaroop awards presented</a>&nbsp;(2008)&nbsp;<a href="http://nariphaltan.org/nari/pdf_files/hindu.pdf">The Hindu</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/hindu_ssb.pdf">CSIR names Bhatnagar winners</a>&nbsp;(2008)&nbsp;<a href="http://www.thehindu.com/todays-paper/tp-national/CSIR-names-Bhatnagar-winners/article15312485.ece">The Hindu</a></li>
+<li><a href="http://webs.iiitd.edu.in/raghava/news/vaxipred_telegraph.pdf">Armour against attack</a>&nbsp;(2004)&nbsp;<a href="http://www.telegraphindia.com/1041227/asp/knowhow/story_4139236.asp">The Telegraph</a></li>
+<li><a href="http://www.pharmabiz.com/ArticleDetails.aspx?aid=17360&amp;sid=21">Bioinformatics today and IMTECH's role</a>&nbsp;(2003) Pharmabiz</li>
 
 
-</table>
-</main>
 </div>
 </div>
 

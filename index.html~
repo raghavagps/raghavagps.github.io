@@ -124,8 +124,8 @@ See <a href="Raghava_SJ.pdf">Scientific Journey</a> for detail.
 <li><a href="https://en.wikipedia.org/wiki/National_Bioscience_Award_for_Career_Development">National Bioscience Award</a>&nbsp;for Carrier Development, for year 2005-2006&nbsp;</li>
 <li><a href="http://nasi.nic.in/NASI-Reliance%20Industries%20Platinum%20Jubilee%20Awardees%20%282009%29.htm">NASI-Reliance Industries Platinum Jubilee Award</a>, 2009;&nbsp;</li>
 <li><a href="http://ip-science.thomsonreuters.com/ssr/researchday_09_in/">Thomson Reuters Research Excellence</a>&nbsp;- India Research Front Awards, 2009</li>
-<li><a href="http://serb.gov.in/fellowships.php">Prestigious&nbsp; J. C. Bose National Fellowship</a>&nbsp;by DST, 2010.</li>
-<li><a href="http://49.50.77.237/~jklakshmi/wp-content/uploads/2015/05/press-release_IIML-national-leadership-awards-nov-30-2012.pdf">Lakshmipat Singhania-IIM Lucknow National Leadership Awards 2011 (Young Leader)</a></li>
+<li>Prestigious&nbsp;<a href="http://serb.gov.in/fellowships.php">J. C. Bose National Fellowship</a>&nbsp;by DST, 2010.</li>
+<li><a href="http://49.50.77.237/~jklakshmi/wp-content/uploads/2015/05/press-release_IIML-national-leadership-awards-nov-30-2012.pdf">by Lakshmipat Singhania-IIM Lucknow, 2011</a></li>
 <li><a href="http://www.nasi.org.in/fellows.asp?RsFilter=R">Fellow of National Academy of Sciences (F.N.A.Sc)</a></li>
 <li><a href="http://www.ias.ac.in/describe/fellow/Raghava,_Dr_Gajendra_Pal_Singh">Fellow of Indian Academy of Science (F.A.Sc.) Banglore.</a></li>
 <li><a href="https://www.insaindia.res.in/">Fellow of Indian National Science Academy (F.N.A) Delhi</a></li>
